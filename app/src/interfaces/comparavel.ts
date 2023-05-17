@@ -1,3 +1,3 @@
 export interface Comparavel<T>{
-    isEqual(objeto: T):boolean;
+    ehIgual(objeto: T):boolean;
 }
